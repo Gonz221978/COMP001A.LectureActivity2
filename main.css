@@ -3,14 +3,14 @@
 * Author: Ethen Gonzalez
 *********************************************************/
 body {
-    background-color: #FACD8A; /* This is a shade of orange. */
+    background-color: blue; /* This is a shade of orange. */
     }
     h1 {
-    color: #363636;
+    color: black;
     }
     h2 {
     font-style: italic;
-    border-bottom: 3px solid #EF9C00; /* Add a line below h2s */
+    border-bottom: 3px solid blue; /* Add a line below h2s */
     }
     ul {
     list-style-type: square; /* Changes the bullets to squares */
